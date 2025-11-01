@@ -8,3 +8,5 @@ datetime
 seaborn
 matplotlib
 scikit-image
+cv2
+
