@@ -7,3 +7,4 @@ joblib
 datetime
 seaborn
 matplotlib
+scikit-image
