@@ -1,4 +1,3 @@
-# Automatic_Smart_Attendance_System_using_ML_and_CV
 # 🎓 Automatic Smart Attendance System using Machine Learning and Computer Vision
 
 ## 📖 Overview
@@ -28,14 +27,23 @@ Attendance is automatically marked in a database, eliminating manual entry and p
 
 ## 🗂️ Project Structure
 Automatic_Smart_Attendance_System_using_ML_and_CV/
+
 │
+
 ├── app.py # Main Streamlit app
+
 ├── svm_model_pca.pkl # Trained SVM model
+
 ├── scaler.pkl # Feature scaler
+
 ├── pca_transform.pkl # PCA transformer
+
 ├── label_mapping1.txt # Label mapping file
+
 ├── haarcascade_frontalface_default.xml # Haar Cascade for face detection
+
 ├── requirements.txt # Required dependencies
+
 └── README.md # Project documentation
 
 ## 🚀 Deployment (Streamlit Cloud)
@@ -43,7 +51,7 @@ Automatic_Smart_Attendance_System_using_ML_and_CV/
 2. Go to [https://share.streamlit.io](https://share.streamlit.io).  
 3. Sign in with GitHub and select your repository.  
 4. Choose the main branch and set the entry file as:
-5. 5. Click **Deploy** – Streamlit will build and host your app online.
+5. Click **Deploy** – Streamlit will build and host your app online.
 
 ---
 
