@@ -46,14 +46,6 @@ Automatic_Smart_Attendance_System_using_ML_and_CV/
 
 └── README.md # Project documentation
 
-## 🚀 Deployment (Streamlit Cloud)
-1. Push all the above files to a **public GitHub repository**.  
-2. Go to [https://share.streamlit.io](https://share.streamlit.io).  
-3. Sign in with GitHub and select your repository.  
-4. Choose the main branch and set the entry file as:
-5. Click **Deploy** – Streamlit will build and host your app online.
-
----
 
 ## 🧰 Libraries Used
 - `streamlit` – for building web interface  
